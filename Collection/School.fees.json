@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "691705720fcde4fed7e882be"
+  },
+  "Class": "Class  1",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705a60fcde4fed7e882bf"
+  },
+  "Class": "Class 2",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705ad0fcde4fed7e882c0"
+  },
+  "Class": "Class 3",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705b40fcde4fed7e882c1"
+  },
+  "Class": "Class 4",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705bb0fcde4fed7e882c2"
+  },
+  "Class": "Class 5",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705c20fcde4fed7e882c3"
+  },
+  "Class": "Class 6",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705c90fcde4fed7e882c4"
+  },
+  "Class": "Class 7",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705d80fcde4fed7e882c5"
+  },
+  "Class": "Class 8",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705e10fcde4fed7e882c6"
+  },
+  "Class": "Class 9",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691705f00fcde4fed7e882c7"
+  },
+  "Class": "Class 10",
+  "data": [
+    {
+      "Fee_Type": "School",
+      "Amount": 2000,
+      "Payment_Date": "2025-11-14",
+      "Payment_Method": "Cash",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": []
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69170dcc8e4064c12c324d91"
+  },
+  "Class": "Class  1",
+  "data": [
+    {
+      "Fee_Type": "School Fee",
+      "Amount": "3500",
+      "Payment_Date": "2025-01-04",
+      "Payment_Method": "Stripe Method",
+      "Mounth": [
+        {
+          "January": []
+        },
+        {
+          "February": []
+        },
+        {
+          "March": []
+        },
+        {
+          "April": []
+        },
+        {
+          "May": []
+        },
+        {
+          "June": []
+        },
+        {
+          "July": []
+        },
+        {
+          "August": []
+        },
+        {
+          "September": []
+        },
+        {
+          "October": []
+        },
+        {
+          "November": [
+            {
+              "Studentid": {
+                "$oid": "69170d968e4064c12c324d84"
+              },
+              "Status": "Pending"
+            },
+            {
+              "Studentid": {
+                "$oid": "69170da88e4064c12c324d87"
+              },
+              "Status": "Pending"
+            },
+            {
+              "Studentid": {
+                "$oid": "69170e628e4064c12c324d93"
+              },
+              "Status": "Pending"
+            }
+          ]
+        },
+        {
+          "December": []
+        }
+      ],
+      "Studentinfo": [
+        {
+          "Studentid": {
+            "$oid": "69170d968e4064c12c324d84"
+          },
+          "Status": "pending"
+        },
+        {
+          "Studentid": {
+            "$oid": "69170da88e4064c12c324d87"
+          },
+          "Status": "pending"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+}]

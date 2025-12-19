@@ -1,0 +1,477 @@
+[{
+  "_id": {
+    "$oid": "691700f30fcde4fed7e882b3"
+  },
+  "Class": "Class  1",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": [
+        {
+          "Date": "14-11-2025",
+          "Attendence": [
+            {
+              "id": "69170d968e4064c12c324d84",
+              "status": "Absent"
+            },
+            {
+              "id": "69170da88e4064c12c324d87",
+              "status": "Absent"
+            },
+            {
+              "id": "69170e628e4064c12c324d93",
+              "status": "Present"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691701180fcde4fed7e882b4"
+  },
+  "Class": "Class 9",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6917011e0fcde4fed7e882b5"
+  },
+  "Class": "Class 8",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691701250fcde4fed7e882b6"
+  },
+  "Class": "Class 7",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6917012d0fcde4fed7e882b7"
+  },
+  "Class": "Class 6",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691701340fcde4fed7e882b8"
+  },
+  "Class": "Class 5",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6917013d0fcde4fed7e882b9"
+  },
+  "Class": "Class 4",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691701470fcde4fed7e882ba"
+  },
+  "Class": "Class 3",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691701500fcde4fed7e882bb"
+  },
+  "Class": "Class 2",
+  "Attendencelist": [
+    {
+      "January": []
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "691732735bc9e0663496229a"
+  },
+  "Class": "Class 10",
+  "Attendencelist": [
+    {
+      "January": [],
+      "November": [
+        {
+          "Date": "14-11-2025",
+          "Attendence": [
+            {
+              "id": "69170d968e4064c12c324d84",
+              "status": "Present"
+            },
+            {
+              "id": "69170da88e4064c12c324d87",
+              "status": "Present"
+            },
+            {
+              "id": "69170e628e4064c12c324d93",
+              "status": "Late"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "February": []
+    },
+    {
+      "March": []
+    },
+    {
+      "April": []
+    },
+    {
+      "May": []
+    },
+    {
+      "June": []
+    },
+    {
+      "July": []
+    },
+    {
+      "August": []
+    },
+    {
+      "September": []
+    },
+    {
+      "October": []
+    },
+    {
+      "November": []
+    },
+    {
+      "December": []
+    }
+  ]
+}]

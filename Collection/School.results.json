@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "6916ff260fcde4fed7e882a6"
+  },
+  "Class": "Class 10",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff590fcde4fed7e882a7"
+  },
+  "Class": "Class 9",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff620fcde4fed7e882a8"
+  },
+  "Class": "Class 8",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff6b0fcde4fed7e882a9"
+  },
+  "Class": "Class 7",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff760fcde4fed7e882aa"
+  },
+  "Class": "Class 6",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff820fcde4fed7e882ab"
+  },
+  "Class": "Class 5",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff900fcde4fed7e882ac"
+  },
+  "Class": "Class 4",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ff9b0fcde4fed7e882ad"
+  },
+  "Class": "Class  3",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ffa60fcde4fed7e882ae"
+  },
+  "Class": "Class  2",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": []
+    },
+    {
+      "Exam": "Second Term",
+      "Data": []
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6916ffaf0fcde4fed7e882af"
+  },
+  "Class": "Class  1",
+  "Subjects": [
+    {
+      "name": "English",
+      "total": 100
+    },
+    {
+      "name": "Urdu",
+      "total": 100
+    },
+    {
+      "name": "Math",
+      "total": 100
+    },
+    {
+      "name": "Islamiat",
+      "total": 100
+    },
+    {
+      "name": "Science",
+      "total": 100
+    }
+  ],
+  "Result": [
+    {
+      "Exam": "First Term",
+      "Data": [
+        {
+          "Studentid": "69170d968e4064c12c324d84",
+          "Marks": [
+            {
+              "subject": "English",
+              "marks": "50",
+              "_id": {
+                "$oid": "69171c4e8e4064c12c324fc0"
+              }
+            },
+            {
+              "subject": "Urdu",
+              "marks": "55",
+              "_id": {
+                "$oid": "69171c4e8e4064c12c324fc1"
+              }
+            },
+            {
+              "subject": "Math",
+              "marks": "60",
+              "_id": {
+                "$oid": "69171c4e8e4064c12c324fc2"
+              }
+            },
+            {
+              "subject": "Islamiat",
+              "marks": "78",
+              "_id": {
+                "$oid": "69171c4e8e4064c12c324fc3"
+              }
+            },
+            {
+              "subject": "Science",
+              "marks": "90",
+              "_id": {
+                "$oid": "69171c4e8e4064c12c324fc4"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "691712f88e4064c12c324e8f"
+          }
+        },
+        {
+          "Studentid": "69170da88e4064c12c324d87",
+          "Marks": [
+            {
+              "subject": "English",
+              "marks": "45",
+              "_id": {
+                "$oid": "6917448de9ee882349f27f98"
+              }
+            },
+            {
+              "subject": "Urdu",
+              "marks": "33",
+              "_id": {
+                "$oid": "6917448de9ee882349f27f99"
+              }
+            },
+            {
+              "subject": "Math",
+              "marks": "56",
+              "_id": {
+                "$oid": "6917448de9ee882349f27f9a"
+              }
+            },
+            {
+              "subject": "Islamiat",
+              "marks": "77",
+              "_id": {
+                "$oid": "6917448de9ee882349f27f9b"
+              }
+            },
+            {
+              "subject": "Science",
+              "marks": "56",
+              "_id": {
+                "$oid": "6917448de9ee882349f27f9c"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "6917448de9ee882349f27f97"
+          }
+        }
+      ]
+    },
+    {
+      "Exam": "Second Term",
+      "Data": [
+        {
+          "Studentid": "69170d968e4064c12c324d84",
+          "Marks": [
+            {
+              "subject": "English",
+              "marks": "45",
+              "_id": {
+                "$oid": "69171e158e4064c12c324fda"
+              }
+            },
+            {
+              "subject": "Urdu",
+              "marks": "67",
+              "_id": {
+                "$oid": "69171e158e4064c12c324fdb"
+              }
+            },
+            {
+              "subject": "Math",
+              "marks": "89",
+              "_id": {
+                "$oid": "69171e158e4064c12c324fdc"
+              }
+            },
+            {
+              "subject": "Islamiat",
+              "marks": "90",
+              "_id": {
+                "$oid": "69171e158e4064c12c324fdd"
+              }
+            },
+            {
+              "subject": "Science",
+              "marks": "66",
+              "_id": {
+                "$oid": "69171e158e4064c12c324fde"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "69171e158e4064c12c324fd9"
+          }
+        }
+      ]
+    },
+    {
+      "Exam": "Final Term",
+      "Data": []
+    }
+  ],
+  "__v": 6
+}]

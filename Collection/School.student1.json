@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "69170d968e4064c12c324d84"
+  },
+  "Student": "Muhammad Student1",
+  "Studentclass": "Class  1",
+  "Data": [
+    {
+      "email": "aww@gmail.com",
+      "Enrollment": "2025-01-04",
+      "ClassName": "Class  1",
+      "PortalID": "ST786786",
+      "Phone": "03284350982"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170da88e4064c12c324d87"
+  },
+  "Student": "Muhammad Student2",
+  "Studentclass": "Class  1",
+  "Data": [
+    {
+      "email": "amm@gmail.com",
+      "Enrollment": "2025-01-04",
+      "ClassName": "Class  1",
+      "PortalID": "ST786980",
+      "Phone": "03284350982"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170e628e4064c12c324d93"
+  },
+  "Student": "Muhammad Student3",
+  "Studentclass": "Class  1",
+  "Data": [
+    {
+      "email": "MUBASHAR.AFFILIATE@GMAIL.COM",
+      "Enrollment": "2025-01-04",
+      "ClassName": "Class  1",
+      "PortalID": "ST12341234",
+      "Phone": "03284350982"
+    }
+  ],
+  "__v": 0
+}]

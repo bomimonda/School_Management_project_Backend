@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "69170c6e8e4064c12c324d7b"
+  },
+  "PortalID": "TE23452123",
+  "Name": "Muhammad Bilal",
+  "email": "aqq@gmail.com",
+  "Teacherinfo": [
+    {
+      "Subject": "History",
+      "Department": "Sciences",
+      "hireDate": "2021-10-20"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170c8f8e4064c12c324d7e"
+  },
+  "PortalID": "TETE23452124",
+  "Name": "Muhammad Ahmad",
+  "email": "apq@gmail.com",
+  "Teacherinfo": [
+    {
+      "Subject": "English",
+      "Department": "Sciences",
+      "hireDate": "2021-10-20"
+    }
+  ],
+  "__v": 0
+}]

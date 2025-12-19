@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6916fc480fcde4fed7e882a3"
+  },
+  "portalId": "AD0011",
+  "name": "Ali Raza",
+  "email": "ali.raza@example.com",
+  "createdAt": "2025-01-10T08:30:00.000Z",
+  "updatedAt": "2025-01-10T08:30:00.000Z"
+}]

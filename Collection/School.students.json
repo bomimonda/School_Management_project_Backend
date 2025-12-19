@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "69170cac8e4064c12c324d80"
+  },
+  "ClassName": "Class  1",
+  "capacity": "30",
+  "Data": [
+    {
+      "ClassteacherName": "69170c6e8e4064c12c324d7b",
+      "Academicyear": "2025",
+      "Homeroom": "201"
+    }
+  ],
+  "Studentlist": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170cc28e4064c12c324d82"
+  },
+  "ClassName": "Class  2",
+  "capacity": "40",
+  "Data": [
+    {
+      "ClassteacherName": "69170c8f8e4064c12c324d7e",
+      "Academicyear": "2025",
+      "Homeroom": "202"
+    }
+  ],
+  "Studentlist": [],
+  "__v": 0
+}]
